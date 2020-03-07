@@ -1,0 +1,75 @@
+#Arial {
+    font-family: Arial;
+    /*text-align: left;*/
+    background-color: silver;
+}
+
+#ArialBlack {
+    font-family: "Arial Black";
+    /*text-align: center;*/
+    color: white;
+    background-color: maroon;
+}
+
+#ComicSansMS {
+    font-family: "Comic Sans MS";
+    /*text-align: right;*/
+    background-color: lime;
+}
+
+#CourierNew {
+    font-family: "Courier New";
+    /*text-align: justify;*/
+    background-color: olive;
+}
+
+#Georgia {
+    font-family: Georgia;
+    color: white;
+    background-color: navy;
+}
+
+#Impact {
+    font-family: Impact;
+    color: silver;
+    background-color: fuchsia;
+}
+
+#TimesNewRoman {
+    font-family: "Times New Roman";
+    color: white;
+    background-color: purple;
+}
+
+#TrebuchetMS {
+    font-family: "Trebuchet MS";
+    background-color: aqua;
+}
+
+#Verdana {
+    font-family: Verdana;
+    background-color: teal;
+}
+
+#blocOmbre {
+    border: 3px black solid;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px black;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #AAA;
+}
+
+/*
+p {
+    font-style: italic;
+}
+*/
